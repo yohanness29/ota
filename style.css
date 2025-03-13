@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #120931;
+    color: white;
+    margin: 0;
+}
+header{
+    overflow-x: hidden;
+}
+.logo {
+    height: 75px;
+}
+
+.nav .nav-item .nav-link {
+    color: white;
+    font-size: 1.1rem;
+}
+
+.nav .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+
+.container {
+    padding: 20px;
+}
+
+.img-fluid {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+}
